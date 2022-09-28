@@ -1,3 +1,5 @@
 # IERG4180_Project1
 
-Name: ZHANG Yuming
+The .exe file is for you to compare your result. 
+
+The TA's solution is just an example. You can have your own way to solve the problem, as long as it follows the project specification. 
