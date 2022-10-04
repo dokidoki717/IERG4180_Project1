@@ -8,4 +8,4 @@ The TA's solution is just an example. You can have your own way to solve the pro
 
 [Sep.29]: Fixed the stat issue, now it display the time elaspe from the session start to the current point.  
 
-[Otc.04]: Upload another .exe try to fixed the environment problem. 
+[Otc.04]: Upload another .exe try to fixed the environment problem. You can try both .exe if one does not work. 
