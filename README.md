@@ -7,3 +7,5 @@ The TA's solution is just an example. You can have your own way to solve the pro
 # Change Logs
 
 [Sep.29]: Fixed the stat issue, now it display the time elaspe from the session start to the current point.  
+
+[Otc.04]: Upload another .exe try to fixed the environment problem. 
